@@ -45,7 +45,7 @@ This video would have a hard time in stormy weather, or snowy weather where snow
 I could tweak the squares for a smoother transition, and work on the false positive based on a sanity test, or if there was a box drawn previously, then it would show a square in the video. 
 
 
-
+Lots of inspiration and help came from previous student's posts on Medium, specifically Nick Hortovanyi and Mithi, which overall helped me look at the specific detail.  
 
 
 
